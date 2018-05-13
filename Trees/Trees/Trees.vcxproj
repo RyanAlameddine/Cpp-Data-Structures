@@ -122,6 +122,9 @@
     <ClInclude Include="AVLNode.h" />
     <ClInclude Include="BST.h" />
     <ClInclude Include="BSTNode.h" />
+    <ClInclude Include="HeapTree.h" />
+    <ClInclude Include="RedBlackNode.h" />
+    <ClInclude Include="RedBlackTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
