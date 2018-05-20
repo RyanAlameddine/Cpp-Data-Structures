@@ -38,6 +38,15 @@
     <ClInclude Include="DoublyLinkedListNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SkipList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkipNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HashMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="SinglyLinkedList.tpp">
